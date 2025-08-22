@@ -18,15 +18,12 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/krishnaandhe/](https://www.linkedin.com/in/krishnaandhe/)
 
-- 📝 Projects managed [https://www.linkedin.com/in/krishnaandhe/](https://www.linkedin.com/in/krishnaandhe/)
-
 - 💬 Ask me about **EXO, OD, SP, MST**
 
 - 📫 How to reach me **krishna.andhe@gmail.com**
 
 - 📄 Know about my work experiences [https://www.linkedin.com/in/krishnaandhe/](https://www.linkedin.com/in/krishnaandhe/)
 
-- ⚡ Fun fact **I can Play games & work at same time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
