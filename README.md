@@ -1,60 +1,116 @@
 <h1 align="center">Hi 👋, I'm Krishna Andhe</h1>
-<h3 align="center">A passionate System Administrator | Microsoft 365 | Google Workspace Specialist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkrish2593&label=Profile%20visitor's&color=0e75b6&style=flat" alt="kkrish2593" /> </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me   
+<h3 align="center">
+IT Manager | Digital Transformation Lead | Microsoft 365 | Automation | Enterprise Infrastructure
+</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+---
 
-- 🔭 I’m currently working on [PowerShell Automation](https://github.com/kkrish2593/M365Powershell)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Azure-GCP-AWS,**
+Experienced IT Manager specializing in enterprise infrastructure, automation, and digital transformation across manufacturing environments.
 
-- 👯 I’m looking to collaborate on [Multi Downloader](https://github.com/kkrish2593/CyberDropDownloader)
+Focused on building scalable, secure, and cost-effective IT systems with strong expertise in Microsoft 365, on-prem solutions, and workflow automation.
 
-- 🤝 I’m looking for help with [Microsoft 365 Scripts Automation](Still Working on...)
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/krishnaandhe/](https://www.linkedin.com/in/krishnaandhe/)
+## 💼 What I Deliver
 
-- 💬 Ask me about **EXO, OD, SP, MST**
+- ✅ Paperless Automation across Manufacturing (6 Plants & 10+ Departments)
+- ✅ Enterprise IT Infrastructure (Windows Server, Network, Firewall, Cloud)
+- ✅ HRMS & Biometric Integration (Real-time Attendance Systems)
+- ✅ ITSM & Helpdesk Deployment (HESK, Automation Workflows)
+- ✅ Microsoft 365 Administration & Governance
+- ✅ Automation using PowerShell, Python & SQL
 
-- 📫 How to reach me **krishna.andhe@gmail.com**
+---
 
-- 📄 Know about my work experiences [https://www.linkedin.com/in/krishnaandhe/](https://www.linkedin.com/in/krishnaandhe/)
+## 🧠 Current Focus
 
+- 🔹 Hybrid Cloud Strategy (Azure + On-Prem Integration)
+- 🔹 AI for IT Operations (Copilot, Automation Workflows)
+- 🔹 Secure Architecture (Identity, Access Control, Zero Trust)
+- 🔹 Cost Optimization & IT Governance
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/djkrish5610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djkrish5610" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishnaandhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnaandhe" height="30" width="40" /></a>
-<a href="https://fb.com/krishnaandhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishnaandhe" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnaandhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnaandhe" height="30" width="40" /></a>
-<a target="_blank" href="mailto:krishna.andhe@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏆 Featured Projects
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
+- 🔹 **M365 PowerShell Automation**  
+  ➤ Automating mailbox, user lifecycle & reporting  
+  🔗 https://github.com/kkrish2593/M365Powershell  
+
+- 🔹 **HRMS Attendance Integration**  
+  ➤ Biometric (ZKTeco) → SQL → Reports → Dashboard  
+
+- 🔹 **IT Helpdesk System (HESK)**  
+  ➤ Secure deployment on IIS with email integration  
+
+- 🔹 **Document Management System (DMS)**  
+  ➤ Open-source DMS on Windows (IIS + MariaDB)  
+
+---
+
+## 🏗️ Architecture Focus
+
+- 🔹 Hybrid IT (Cloud + On-Premise Systems)
+- 🔹 Multi-site Network Design (HQ ↔ Remote Plants)
+- 🔹 Secure Identity & Access Management
+- 🔹 Scalable Automation & Workflow Systems
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & SaaS
+![Azure](https://img.shields.io/badge/Azure-0078D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft365](https://img.shields.io/badge/M365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![GoogleWorkspace](https://img.shields.io/badge/Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🖥️ Infrastructure
+![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D6?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+
+### ⚙️ Automation
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+## 📊 GitHub Insights
+
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://fydeos.io/static/images/logo/Logo_light.svg" height="40" width="40"  /></a>
-</p><br> 
-
-
-## 🐍 A Snake Eating my Contributions Graph	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kkrish2593&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrish2593&layout=compact" />
 </p>
+
+---
+
+## 🎓 Certifications & Achievements
+
+- ✔ Microsoft 365 Administration (Enterprise Level)
+- ✔ IT Infrastructure & Network Management
+- ✔ Automation (PowerShell, Python)
+- ✔ Digital Transformation Initiatives (Manufacturing Domain)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: krishna.andhe@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/krishnaandhe  
+
+---
+
+## 🧭 Vision
+
+Driving IT towards automation-first, paperless, and scalable enterprise systems  
+with strong focus on security, efficiency, and business impact.
+
+---
