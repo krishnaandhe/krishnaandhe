@@ -40,10 +40,10 @@ Focused on building scalable, secure, and cost-effective IT systems with strong 
   ➤ Automating mailbox, user lifecycle & reporting  
   🔗 https://github.com/kkrish2593/M365Powershell  
 
-- 🔹 **HRMS Attendance Integration**  
-  ➤ Biometric (ZKTeco) → SQL → Reports → Dashboard  
+- 🔹 **Pool Car Booking System**  
+  ➤ Self Hosted - Organisation can use Pool Car Booking System & Driver Assignment  
 
-- 🔹 **IT Helpdesk System (HESK)**  
+- 🔹 **IT Helpdesk System Powered by (HESK)**  
   ➤ Secure deployment on IIS with email integration  
 
 - 🔹 **Document Management System (DMS)**  
